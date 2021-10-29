@@ -1,0 +1,21 @@
+h1 {
+ text-align: center;
+ color: White;
+ font-size: 500%;
+}
+
+h2 {
+  text-align: center;
+  color: White;
+  font-size: 100%;
+}
+
+p {
+ text-align: center; 
+ color: White;
+}
+
+a {
+  text-align: center;
+  color: Chartreuse;
+}
